@@ -34,40 +34,16 @@ Execute the programs and publish them.
     <title>My City</title>
 </head>
 <body> 
-    <h1 align="center"><font color="Black"><b>Ambattur</b></font></h1>
-    <h2 align="center"><font color="Black"><b>Kamlesh Y (212224100029)</b></font></h2>
+    <h1 align="center"><font color="Black"><b>MANNADY</b></font></h1>
+    <h2 align="center"><font color="Black"><b>AADHITHAN B (212224040001)</b></font></h2>
     <center>
         <img src="map.png" usemap="#MyCity" height="610" width="1243">
 
         <map name="MyCity">
-            <area target="_blank" 
-                  alt="IT park" 
-                  title="IT park" 
-                  href="itpark.html" 
-                  coords="300,200,350,250" 
-                  shape="rect">
-
-            <area target="_blank" 
-                  alt="Ambattur Railway Station" 
-                  title="Ambattur Railway Station" 
-                  href="rail.html" 
-                  coords="500,300,550,350" 
-                  shape="rect">
-
-            <area target="_blank" 
-                  alt="Ambattur Bus Depot" 
-                  title="Ambattur Bus Depot" 
-                  href="bus.html" 
-                  coords="700,250,750,300" 
-                  shape="rect">
-
-            <area target="_blank" 
-                  alt="LandMark" 
-                  title="LandMark" 
-                  href="land.html" 
-                  coords="900,350,950,400" 
-                  shape="rect">
-
+        <area shape="rect" coords="1000,250,900,900" href="beachstation.html" title="beachstation">
+        <area shape="rect" coords="750,290,800,800" href="home.html" title="my home">
+        <area shape="rect" coords="500,700,400,300" href="flowermarket.html" title="flowermarket">
+        <area shape="rect" coords="600,250,700,200" href="metrostation.html" title="metro station">
         
 
         </map>
